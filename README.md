@@ -1,7 +1,7 @@
 ## 🚀 Tools列表
 
-### Toll-1：事件单批量作废
-- 位置：`/cancelEvent`
+### 1：事件单批量作废
+- 位置：`src/cancelEvent`
 - 功能：
   - 通过POST请求，批量作废事件单
 - 工具：
@@ -13,8 +13,8 @@
   - `fault_nos.txt` 存放单号
   - `cancel_event.log`日志
 
-### Toll-2：批量下载附件
-- 位置：`/downloadAttachments`
+### 2：批量下载附件
+- 位置：`src/downloadAttachments`
 - 功能：
   - 通过requests请求，批量下载附件
 - 工具：
